@@ -1,7 +1,4 @@
-Below is a **README.md** you can directly use for your **Credit Card Fraud Detection (Churn-style Prediction)** project.
-It is written in a **report / academic + project submission style**, aligned with your code and the methodology points you asked for.
 
----
 
 # 📊 Credit Card Fraud Detection – Machine Learning Project
 
